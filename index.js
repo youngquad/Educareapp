@@ -1,4 +1,3 @@
-index.js:
 javascript
 CopyEdit
 const express = require('express');
