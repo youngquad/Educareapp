@@ -1,10 +1,3 @@
-Backend (Node.js + Express)
-* Folder Structure:
-    * educare-backend/
-        * index.js
-        * .env
-        * models/
-            * User.js
 index.js:
 javascript
 CopyEdit
